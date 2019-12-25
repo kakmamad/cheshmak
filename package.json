@@ -1,0 +1,55 @@
+{
+  "_from": "cheshmak-cordova-plugin",
+  "_id": "cheshmak-cordova-plugin@5.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-5FZbsQg1pVMmVFvpfdj+yDxBiaE=",
+  "_location": "/cheshmak-cordova-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cheshmak-cordova-plugin",
+    "name": "cheshmak-cordova-plugin",
+    "escapedName": "cheshmak-cordova-plugin",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cheshmak-cordova-plugin/-/cheshmak-cordova-plugin-4.5.0.tgz",
+  "_shasum": "e4565bb10835a55326545be97dd8fec83c4189a1",
+  "_spec": "cheshmak-cordova-plugin",
+  "_where": "D:\\Cheshmak\\Cordova\\npm",
+  "author": {
+    "name": "Reza Mirjahanian"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cheshmak-cordova-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Integration of Cheshmak library to Cordova",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=9.0.0"
+    }
+  ],
+  "keywords": [
+    "cordova",
+    "plugin",
+    "cheshmak",
+    "push",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "cheshmak-cordova-plugin",
+  "version": "5.1.0"
+}
